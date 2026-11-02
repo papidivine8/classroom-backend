@@ -1,4 +1,4 @@
-import { randomUUID } from 'node:crypto';
+/* import { randomUUID } from 'node:crypto';
 import { eq } from 'drizzle-orm';
 import { db } from './db/index.js';
 import { demoUsers } from './db/schema/index.js';
@@ -57,3 +57,4 @@ main().catch((error: unknown) => {
   console.error('Error performing CRUD operations:', error);
   process.exitCode = 1;
 });
+*/
